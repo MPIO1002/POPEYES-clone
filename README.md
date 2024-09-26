@@ -8,6 +8,8 @@ Thành viên nhóm:
 2. Trần Thanh Phương
 3. Văn Hoàng Như 
 
+Ngôn ngữ sử dụng: HTML, CSS, JavaScript.
+
 Website bán thức ăn nhanh Popeyes có các chức năng cơ bản như: 
 + Hiển thị sản phẩm, chi tiết sản phẩm, phân trang, cho phép người dùng mua hàng khi đã đăng nhập
 + Hiển thị giỏ hàng nơi người dùng có thể xem được các sản phẩm đã đặt, có thể tăng giảm và tính toán số tiền cần thanh toán 
